@@ -1,0 +1,17 @@
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\bin\Debug\net10.0-windows\WinFormsIMC.exe
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\bin\Debug\net10.0-windows\WinFormsIMC.deps.json
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\bin\Debug\net10.0-windows\WinFormsIMC.runtimeconfig.json
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\bin\Debug\net10.0-windows\WinFormsIMC.dll
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\bin\Debug\net10.0-windows\WinFormsIMC.pdb
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.FrmImc.resources
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.dll
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\refint\WinFormsIMC.dll
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.pdb
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.genruntimeconfig.cache
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\ref\WinFormsIMC.dll
+C:\Users\Aluno\source\repos\WinFormsIMC\WinFormsIMC\obj\Debug\net10.0-windows\WinFormsIMC.Properties.Resources.resources
